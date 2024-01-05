@@ -1,1 +1,7 @@
+1. We need to install Gurobi and configure the required environment variables.
+2. Select the Round in "main.cpp". The cube can be set in "cube.txt" and the form is "0,1,2,3,....,n" (the index begins with 0).
+3. Type ./exec.sh to generate the executable program "trivium". At the same time, three folders will be created in the current directory,
+   namely "STATE", "LOG" and "TERM". "LOG" contains log files; "STATE" saves some important data so that the program can continue to run after 
+   a crash; "TERM" stores the results produced by the execution of the program.
+4. Type ./trivium to run the program. While the program is running, you can check the status of the program by viewing the files in the LOG.
 
