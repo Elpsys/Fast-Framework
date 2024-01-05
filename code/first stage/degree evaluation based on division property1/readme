@@ -1,2 +1,3 @@
-The cubes to be tested should be written in 'manycubes.txt' and the form of them is  '0,1,2,3,4,...,n' (the index begins with 0).
-The result wil be written in 'MaxdegreeTerms.txt'.
+1. We should intall Gurobi.
+2. The cubes to be tested should be written in 'manycubes.txt' and the form of them is  '0,1,2,3,4,...,n' (the index begins with 0).
+3. The result wil be written in 'MaxdegreeTerms.txt'.
