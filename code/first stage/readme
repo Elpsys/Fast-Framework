@@ -1,3 +1,3 @@
-First, one uses the procedure (in folder : construct by ...) to construct candidate cubes.
-Second, one uses the precedure (in folder : degree evaluation ...) to evaluate the degree of candidate cubes.
-Third, one selects the intermediate cube according to the strategy of Algorithm 6 in paper, which is very easy to completed.
+First, we use the procedure (in folder : construct by ...) to construct candidate cubes.
+Second, we use the precedure (in folder : degree evaluation ...) to evaluate the degree of candidate cubes.
+Third, we select the intermediate cube according to the strategy of Algorithm 6 in paper, which is very easy to completed.
