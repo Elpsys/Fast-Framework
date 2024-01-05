@@ -1,0 +1,2 @@
+1.The procedure use the version of Gurobi 10.0.1.
+2.After obtaining the intermediate cube, it and its degree are the input of the second stage.
