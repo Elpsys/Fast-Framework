@@ -1,3 +1,4 @@
 1. We should instal Gurobi and configure the required environment.
 2. Select a starting cube to construct candidates cubes and evaluate their degree to get the intermediate cube. The procedures list in the folder "first stage".
 3. After obtaining the intermediate cube, it and its degree are the input of the second stage to get a mother cube.
+4. The codes of recovering the superpolies are based on the public source codes of paper "Stretching Cube Attacks: Improved Methods to Recover Massive Superpolies".
