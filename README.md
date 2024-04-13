@@ -1,4 +1,4 @@
 # Fast-Framework
-These are the source code and superpolies for the paper "The Fast Framework for Constructing Valuable Cubes to Implement a Practical Key-Recovery Attack on 832-Round Trivium".
+These are the source codes and superpolies for the paper "A Fast Framework for Efficiently Constructing Valuable Cubes".
 
 
